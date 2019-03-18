@@ -1,0 +1,25 @@
+[general]
+creator=R package 'raster'
+created=2017-03-01 14:45:15
+[georeference]
+nrows=240
+ncols=336
+xmin=-67
+ymin=-33
+xmax=-53
+ymax=-23
+projection=+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=26
+bandorder=BIL
+minvalue=-21:93:44:2300:94:-158:189:14:-62:14:-67:75:25:0:5:58:0:58:0:3451.41767883301:0.171874999999993:1:0.3693458984375:349.060882018773:131.327049885321:-9.43516262105045
+maxvalue=243:193:67:6023:366:137:335:282:251:282:200:2047:257:146:142:615:464:615:483:7040.31183539497:5511.79785156252:117:0.588448350694444:676.700216881159:2917.66057700476:224.63427253228
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=bio1:bio2:bio3:bio4:bio5:bio6:bio7:bio8:bio9:bio10:bio11:bio12:bio13:bio14:bio15:bio16:bio17:bio18:bio19:uvb:elevation:soiltype:PAR:cloud:frost:vapor
